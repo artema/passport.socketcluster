@@ -1,5 +1,7 @@
 # SocketCluster Passport.js authentication middleware
 
+[![NPM](https://nodei.co/npm/passport.socketcluster.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/passport.socketcluster/)
+
 A [SocketCluster](http://socketcluster.io/) middleware for authenticating socket connections with [Passport.js](http://passportjs.org/).
 
 ## Installation
