@@ -2,7 +2,7 @@
 
 A [SocketCluster](http://socketcluster.io/) middleware for authenticating socket connections with [Passport.js](http://passportjs.org/).
 
-## Install
+## Installation
 
     npm install passport.socketcluster
 
